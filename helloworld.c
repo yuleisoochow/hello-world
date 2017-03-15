@@ -2,8 +2,8 @@
 
 int main(void)
 {
-  printf("Hello world!\n");
-  printf("The first program!\n");
-  printf("The first modify\n");
+  printf("*****************************\n");
+  printf("Welcome to github!\n");
+  printf("*****************************\n");
   return 0;
 }
