@@ -1,2 +1,2 @@
-# hello-world
-The first project.
+# Learning Project (hello-world)
+My first project in github.
